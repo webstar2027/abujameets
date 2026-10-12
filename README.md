@@ -20,3 +20,6 @@ Adult-content functionality must not be enabled until age verification, consent 
 5. Complete and test all authentication, access-control, uploads, chat, admin, and payment flows before launch.
 
 Keep `SUPABASE_SERVICE_ROLE_KEY`, `PAYSTACK_SECRET_KEY`, and `FLW_SECRET_KEY` server-side only. Never put secrets in browser files.
+
+
+Safety scope: the front-end clearly states that explicit/adult 18+ content is prohibited and shows a scam warning. This UI alone does not technically block uploads/messages. Before public launch, implement server-side upload validation, reporting/moderation, and enforce Supabase Row Level Security; do not rely on browser-only checks.
