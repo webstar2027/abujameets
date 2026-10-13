@@ -1,6 +1,11 @@
 # ABUJA MEET — redesigned website starter
 
-Includes a redesigned responsive homepage, account UI preview (regular/escort), show/hide password, launch locations (Abuja/FCT, Lagos, Nasarawa), the three subscription plans, feature descriptions, and an initial Supabase schema for profiles, posts, matches, messages, reports and payment records.
+Includes a redesigned responsive homepage, account UI preview (regular/business, with profession selection), show/hide password, launch locations (Abuja/FCT, Lagos, Nasarawa, Port Harcourt), the three subscription plans, feature descriptions, and an initial Supabase schema for profiles, posts, matches, messages, reports and payment records.
+
+## Account types and professions
+- Regular account
+- Business account
+- Profession choices include lawyer, law firm, web/IT professional, business owner, entrepreneur, healthcare professional, engineer, teacher, accountant, artist, real estate professional, student, and other.
 
 ## Subscription pricing
 - ₦3,000 for 30 days
