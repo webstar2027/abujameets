@@ -1,4 +1,4 @@
-# ABUJA MEETS — redesigned website starter
+# ABUJA MEET — redesigned website starter
 
 Includes a redesigned responsive homepage, account UI preview (regular/escort), show/hide password, launch locations (Abuja/FCT, Lagos, Nasarawa), the three subscription plans, feature descriptions, and an initial Supabase schema for profiles, posts, matches, messages, reports and payment records.
 
@@ -13,7 +13,7 @@ This ZIP is a **starter**, not a complete live dating platform. The homepage and
 Adult-content functionality must not be enabled until age verification, consent and moderation safeguards are implemented and the hosting/payment providers' rules are checked. No minors, coercion, exploitation, or non-consensual intimate content.
 
 ## Deploy later
-1. Upload the contents to a new GitHub repository named `abuja-meets`.
+1. Upload the contents to a new GitHub repository named `abuja-meet`.
 2. Create a separate Supabase project.
 3. Run `supabase/schema.sql` in the Supabase SQL Editor.
 4. Connect the repo to Render and set server environment variables.
